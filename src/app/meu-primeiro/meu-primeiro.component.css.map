@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,CAAC,CAAC;EACE,SAAS,EAAE,IAAI;CAAG",
+    "sources": [
+        "meu-primeiro.component.sass"
+    ],
+    "names": [],
+    "file": "meu-primeiro.component.css"
+}
